@@ -1,0 +1,153 @@
+.image-logo {
+    position: absolute;
+    width: 329px;
+    height: 57px;
+    left: 94px;
+    top: 55px;
+}
+
+.title {
+    position: absolute;
+    width: 350px;
+    height: 112px;
+    left: 94px;
+    top: 112px;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 62px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.subtitle {
+    position: absolute;
+    width: 473px;
+    height: 74px;
+    left: 94px;
+    top: 210px;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 33px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+
+.labelEmail {
+    position: absolute;
+    width: 379px;
+    height: 74px;
+    left: 94px;
+    top: 307px;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 38px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+
+.labelPassword {
+    position: absolute;
+    width: 379px;
+    height: 74px;
+    left: 94px;
+    top: 441px;
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 33px;
+    line-height: 38px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+
+.inputEmail {
+    position: absolute;
+    width: 566px;
+    height: 53px;
+    left: 94px;
+    top: 386px;
+    background: #ffffff;
+}
+
+.inputPassword {
+
+    position: absolute;
+    width: 566px;
+    height: 53px;
+    left: 94px;
+    top: 515px;
+
+    background: #FFFFFF;
+    border: 2px solid #000000;
+}
+
+.buttonEnviar {
+    position: absolute;
+    width: 214px;
+    height: 55px;
+    left: 97px;
+
+    top: 601px;
+
+    font-weight: 400;
+    font-size: 33px;
+    font-family: 'Times New Roman';
+    font-style: normal;
+
+    background: #EFEFEF;
+    border: 1px solid #000000;
+    border-radius: 5px;
+}
+
+.footerText {
+    position: absolute;
+    width: 587px;
+    height: 74px;
+    left: 97px;
+    top: 698px;
+
+
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 33px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+
+.buttonEnter {
+    position: absolute;
+    width: 404.5px;
+    height: 55px;
+    left: 94px;
+    top: 824px;
+
+    font-weight: 400;
+    font-size: 33px;
+    font-family: 'Times New Roman';
+    font-style: normal;
+
+    background: #EFEFEF;
+    border: 1px solid #000000;
+    border-radius: 5px;
+}
